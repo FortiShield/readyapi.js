@@ -1,4 +1,4 @@
-# ReadyAPI Themes
+# KhulnaSoft Themes
 
 [![Version](https://img.shields.io/npm/v/%40readyapi/themes)](https://www.npmjs.com/package/@readyapi/themes)
 [![Downloads](https://img.shields.io/npm/dm/%40readyapi/themes)](https://www.npmjs.com/package/@readyapi/themes)
